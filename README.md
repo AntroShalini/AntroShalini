@@ -117,16 +117,6 @@
 
 ---
 
-<!-- GITHUB TROPHIES -->
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AntroShalini&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-
-<br>
-
 <!-- GITHUB STATS & LANGUAGES (Transparent background simulates Glassmorphism) -->
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
