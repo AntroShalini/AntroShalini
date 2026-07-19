@@ -21,7 +21,7 @@
 <!-- TYPING ANIMATION: Roles & Titles -->
 <div align="center">
   <a href="https://github.com/AntroShalini">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Antro+Shalini;💻+Java+%7C+React.js+Developer;🤖+Machine+Learning+Enthusiast;🚀+Aspiring+Software+Engineer;🎓+B.E.+Student+%26+Tech+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Antro+Shalini;💻+Java+%7C+React.js+Developer;🤖+Machine+Learning+Enthusiast;🚀+Aspiring+Software+Engineer;🎓+MCA+Student+%26+Tech+Explorer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,7 +31,7 @@
 <table align="center" width="100%" border="0" style="border: none;">
   <tr>
     <td width="60%" valign="top">
-      <h2 align="left">🪐 About Me</h2>
+      <h2 align="left"> About Me</h2>
       <blockquote>
         <p>I am a passionate <b>B.E. Student</b> from India, driven by a deep love for problem-solving and building scalable, real-world applications. My ultimate goal is to become a <b>Software Engineer</b> at a top-tier product-based company.</p>
         <p>🌱 <b>Currently Learning:</b> Data Structures & Algorithms, Spring Boot, System Design<br>
