@@ -166,9 +166,6 @@
 <!-- SUPPORT SECTION -->
 <div align="center">
   <p>Code with Coffee!</p>
-  <a href="https://www.takethiscoffee.com/AntroShalini" target="_blank">
-    <img src="https://cdn.takethiscoffee.com/buttons/v2/default-blue.png" alt="Take this Coffee" height="50" width="210">
-  </a>
 </div>
 
 <br>
