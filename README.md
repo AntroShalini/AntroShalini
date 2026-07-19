@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **B.E Degree**
+- 🎓 Pursuing **MCA Degree**
 - 💻 Passionate about **Java, React, Machine Learning**
 - 🌱 Currently learning **DSA, Spring Boot, SQL**
 - 🚀 Building real-world projects
@@ -40,10 +40,10 @@
 ### 🌾 AgriAssist
 AI-powered chatbot for farmers using React.
 
-### 🏠 House Price Prediction
+### 🏠 Drug Addiction Recovery
 Machine Learning project using Python.
 
-### 📚 Portfolio Website
+### 📚 
 Personal responsive portfolio built with React.
 
 ---
