@@ -21,7 +21,7 @@
 <!-- TYPING ANIMATION: Roles & Titles -->
 <div align="center">
   <a href="https://github.com/AntroShalini">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Antro+Shalini;💻+Java+%7C+React.js+Developer;🤖+Machine+Learning+Enthusiast;🚀+Aspiring+Software+Engineer;🎓+MCA+Student+%26+Tech+Explorer" alt="Typing SVG" />
+   
   </a>
 </div>
 
