@@ -33,7 +33,7 @@
     <td width="60%" valign="top">
       <h2 align="left"> About Me</h2>
       <blockquote>
-        <p>I am a passionate <b>B.E. Student</b> from India, driven by a deep love for problem-solving and building scalable, real-world applications. My ultimate goal is to become a <b>Software Engineer</b> at a top-tier product-based company.</p>
+        <p>I am a passionate <b>MCA Student</b> from India, driven by a deep love for problem-solving and building scalable, real-world applications. My ultimate goal is to become a <b>Software Engineer</b> at a top-tier product-based company.</p>
         <p>🌱 <b>Currently Learning:</b> Data Structures & Algorithms, Spring Boot, System Design<br>
         💡 <b>Interests:</b> Machine Learning, Full-Stack Web Development, SQL<br>
         🎯 <b>Hobbies:</b> Cracking coding challenges & designing intuitive UIs.</p>
