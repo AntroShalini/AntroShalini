@@ -122,23 +122,6 @@
   <h2>📊 GitHub Analytics</h2>
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=AntroShalini&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&text_color=C9D1D9&icon_color=7000FF&bg_color=00000000" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntroShalini&layout=compact&theme=transparent&hide_border=true&title_color=00F0FF&text_color=C9D1D9&icon_color=7000FF&bg_color=00000000" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntroShalini&theme=transparent&hide_border=true&title_color=00F0FF&text_color=C9D1D9&icon_color=7000FF&background=00000000" alt="GitHub Streak" />
-</div>
-
-<br>
-
 <!-- CONTRIBUTION GRAPHS -->
 <div align="center">
   <h2>📈 Contribution Activity</h2>
