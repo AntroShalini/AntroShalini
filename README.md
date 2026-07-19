@@ -1,5 +1,5 @@
-<h1 align="center">Hi Antro Shalini</h1>
-<h3 align="center">MCA Student | Machine Learning Enthusiast</h3>
+<h1 align="center">Antro Shalini</h1>
+<h3 align="center">MCA Student | Machine Learning </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Java+Developer;React+Developer;Machine+Learning+Enthusiast;Open+Source+Learner;Future+Software+Engineer" />
