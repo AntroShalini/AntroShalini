@@ -166,7 +166,7 @@
 <!-- SUPPORT SECTION -->
 <div align="center">
   <h2>💖 Support My Work</h2>
-  <p>If you like my projects or want to discuss tech, feel free to connect or buy me a coffee!</p>
+  <p>Code with Coffee!</p>
   <a href="https://www.buymeacoffee.com/AntroShalini" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50" width="210">
   </a>
