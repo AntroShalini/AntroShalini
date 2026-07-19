@@ -166,8 +166,8 @@
 <!-- SUPPORT SECTION -->
 <div align="center">
   <p>Code with Coffee!</p>
-  <a href="https://www.buymeacoffee.com/AntroShalini" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Take this Coffee" height="50" width="210">
+  <a href="https://www.takethiscoffee.com/AntroShalini" target="_blank">
+    <img src="https://cdn.takethiscoffee.com/buttons/v2/default-blue.png" alt="Take this Coffee" height="50" width="210">
   </a>
 </div>
 
