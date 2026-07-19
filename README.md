@@ -114,14 +114,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<!-- GITHUB STATS & LANGUAGES (Transparent background simulates Glassmorphism) -->
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-</div>
-
 <!-- CONTRIBUTION GRAPHS -->
 <div align="center">
   <h2>📈 Contribution Activity</h2>
@@ -130,18 +122,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AntroShalini&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=7000FF&point=ffffff" width="90%" alt="Activity Graph" />
   
   <br><br>
-  
-  <!-- Snake Animation (Requires GitHub Action Setup - see note below) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntroShalini/AntroShalini/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntroShalini/AntroShalini/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AntroShalini/AntroShalini/output/github-contribution-grid-snake-dark.svg" width="90%">
-  </picture>
-  <br>
-  <p><i>*Snake animation requires the Platane/snk GitHub Action to be active in this repository.</i></p>
-</div>
 
----
 
 <!-- DYNAMIC QUOTE -->
 <div align="center">
